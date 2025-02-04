@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es2018",        /* Specify ECMAScript target version */
+    "lib": ["ES2018", "DOM"],  /* Specify library files to include */
+    "allowJs": true,           /* Allow JavaScript files to be compiled */
+    "jsx": "react"             /* Specify JSX code generation */
+  },
+  "include": ["src/**/*"]      /* Specify which files to include */
+}
